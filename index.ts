@@ -1,4 +1,4 @@
 //todo
-interface Menu{
-    name: string
+interface Menu {
+  name: string;
 }
