@@ -1,4 +1,4 @@
 //todo
-interface Menu {
+export interface Menu {
   name: string;
 }
